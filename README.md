@@ -1,163 +1,128 @@
 <div align="center">
 
-# Hi, I'm Ambar 👋
+<!-- Header Banner Elegan (Capsule Render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181616,50:7C1D2D,100:A8283D&height=180&section=header&text=Reny%20Ambarwati&fontSize=42&fontColor=FAF7F2&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Computer%20Vision%20%26%20Robotics%20Software&descAlignY=60&descSize=16" width="100%" alt="Reny Ambarwati Banner" />
 
-### AI & Software Developer | Computer Vision | Robotics Software
+<br/>
 
-Building practical software with AI, computer vision, and robotics.
-
+<!-- Social & Portfolio Links -->
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://minipaoo.web.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-minipaoo.web.id-7C1D2D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-2563EB?style=for-the-badge" alt="AI and Software" />
-  <img src="https://img.shields.io/badge/Based%20in-Indonesia-DC2626?style=for-the-badge" alt="Based in Indonesia" />
+  <a href="https://linkedin.com/in/renyambarwati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Reny%20Ambarwati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:renyambarwati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-181616?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+### About Me
 
-I'm an Informatics Engineering student at **Politeknik Negeri Malang** who enjoys turning ideas into practical software systems.
+I'm a 5th-semester Informatics Engineering student at **Politeknik Negeri Malang**, working at the intersection of **Full-Stack Web Engineering** and **Computer Vision / AI**.
 
-My main interests are **AI-powered applications, computer vision, and robotics software**. I have worked with object detection models, real-time camera processing, model optimization for CPU inference, and ROS 2-based robotics workflows. I also enjoy building web and mobile applications to solve practical problems.
+- 💻 **Web & Backend:** Building structured end-to-end web applications, RESTful APIs, relational databases, and automated reporting systems.
+- 👁️ **Computer Vision & Robotics:** Developing real-time object detection pipelines, ROS 2 nodes, custom HMI displays, and edge inference optimization as part of the **ABUROBONEMA Robotics Team** (*KRAI 2026 National Finalist*).
+- 🔬 **Applied AI Research:** Assisting faculty research on AI-based video analytics early warning systems for command centers.
+- 📊 **Data & BI:** Working with ETL pipelines and interactive business intelligence dashboards.
 
-- 🤖 Exploring computer vision and software integration for robotics.
-- 👁️ Working with YOLO, OpenCV, and real-time object detection.
-- ⚡ Experimenting with model optimization using OpenVINO.
-- 🧩 Developing software with Python, Java, PHP, Laravel, and Flutter.
-- 🌱 Always learning, building, testing, and improving.
+---
 
-## Tech Stack
-
-### AI, Machine Learning & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white" alt="OpenVINO" />
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logoColor=white" alt="Roboflow" />
-</p>
-
-### Robotics & Systems
-
-<p>
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-</p>
-
-### Software & Application Development
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## Featured Work
-
-> Update the repository links below to point to the public repositories you want visitors to explore.
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Robotics & Computer Vision</h3>
-      Computer vision workflows for robotics, including object detection, camera processing, and integration with ROS 2.
+      <h3>🛒 SkillKul — Freelance Marketplace</h3>
+      End-to-end student freelance marketplace featuring multi-role authentication, service catalogs, automated <b>Midtrans</b> payment verification, and dynamic PDF invoicing (<b>DomPDF</b>).
       <br/><br/>
-      <b>Focus:</b> YOLO · OpenCV · ROS 2 · Python
-      <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore repositories →</a>
+      <code>Laravel</code> · <code>Tailwind CSS</code> · <code>PostgreSQL</code> · <code>Midtrans API</code>
+      <br/><br/>
+      <a href="https://github.com/Renyambar/Skillkul_PBL"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Real-Time Object Detection</h3>
-      Experiments with YOLO-based detection, bounding-box visualization, confidence scores, FPS measurement, and CPU inference optimization.
+      <h3>🤖 ABU Robocon (KRAI 2026) Vision</h3>
+      Real-time object detection and coordinate estimation for autonomous robots, complete with a custom HMI control interface and edge hardware optimization (INT8 quantization & pruning).
       <br/><br/>
-      <b>Focus:</b> YOLO · OpenVINO · OpenCV
-      <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore repositories →</a>
+      <code>YOLOv8</code> · <code>ROS 2 Humble</code> · <code>TensorRT</code> · <code>OpenVINO</code> · <code>NCNN</code>
+      <br/><br/>
+      <a href="https://github.com/Renyambar/abu-riset"><b>View Repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 Plant Care Application</h3>
-      A plant-care application concept that combines image-based condition classification with scan history, care recommendations, and a mobile user experience.
+      <h3>🌱 CapSee — AI Mobile Capstone</h3>
+      Cross-platform mobile application integrating deep learning image classification and scan workflows for plant health detection.
       <br/><br/>
-      <b>Focus:</b> Machine Learning · Flutter · Python
-      <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore repositories →</a>
+      <code>Python</code> · <code>OpenCV</code> · <code>PyTorch</code> · <code>TensorFlow</code> · <code>Flutter</code>
+      <br/><br/>
+      <a href="https://github.com/Adhityayusuf/capsee"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Web Application Development</h3>
-      Web application projects focused on practical features, database integration, and structured application development.
+      <h3>🏛️ Lab Mobile & Multimedia CMS</h3>
+      Official profile portal and Content Management System (CMS) for managing laboratory facilities, research publications, and schedules at Polinema.
       <br/><br/>
-      <b>Focus:</b> Laravel · PHP · MySQL · PostgreSQL
-      <br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore repositories →</a>
+      <code>Laravel</code> · <code>Blade</code> · <code>Tailwind CSS</code> · <code>PostgreSQL</code>
+      <br/><br/>
+      <a href="https://github.com/Renyambar/PBL_LabMMT"><b>View Repository →</b></a>
     </td>
   </tr>
 </table>
 
-## What I Work On
+---
 
-- **Computer vision:** object detection, image processing, bounding boxes, and camera-based perception.
-- **Model optimization:** testing inference performance and exploring OpenVINO for CPU deployment.
-- **Robotics software:** ROS 2 nodes, camera pipelines, and connecting perception outputs to robotics workflows.
-- **Application development:** building web and mobile interfaces backed by application logic and databases.
+### Technical Stack
 
-## GitHub Overview
+#### 🌐 Web & Mobile Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<!-- These cards are provided by github-readme-stats. If the service is unavailable, the rest of this README still works. -->
+#### 🧠 AI, Computer Vision & Edge Robotics
+![YOLOv8](https://img.shields.io/badge/YOLOv8%2Fv10-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ros&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logoColor=white)
+
+#### 🗄️ Databases, BI & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Renyambar&show_icons=true&hide_border=true&title_color=F4EFEA&icon_color=A8283D&text_color=A39B98&bg_color=121111" alt="Renyambar GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renyambar&layout=compact&hide_border=true&title_color=F4EFEA&text_color=A39B98&bg_color=121111" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Renyambar&hide_border=true&background=121111&stroke=2C2727&ring=A8283D&fire=A8283D&currStreakNum=F4EFEA&sideNums=F4EFEA&currStreakLabel=A8283D&sideLabels=A39B98&dates=8E8683" alt="GitHub Streak" />
 </p>
 
-## Beyond the Code
-
-I enjoy learning by building, experimenting with new tools, collaborating on projects, and turning technical concepts into working systems.
+---
 
 <div align="center">
-
-### Let's build something useful. 🚀
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-</a>
-
-<!-- Optional: replace with a professional email or LinkedIn URL -->
-<a href="YOUR_EMAIL_OR_PROFILE_URL">
-  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
-</a>
-
+  <sub>Explore more projects and case studies at <a href="https://minipaoo.web.id"><b>minipaoo.web.id</b></a></sub>
 </div>
-
-
-<!--
-**Renyambar/Renyambar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
