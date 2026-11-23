@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner Elegan (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181616,50:7C1D2D,100:A8283D&height=180&section=header&text=Reny%20Ambarwati&fontSize=42&fontColor=FAF7F2&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Computer%20Vision%20%26%20Robotics%20Software&descAlignY=60&descSize=16" width="100%" alt="Reny Ambarwati Banner" />
+<img src="banner.jpeg" width="100%" alt="Reny Ambarwati Banner" />
 
 <br/>
 
